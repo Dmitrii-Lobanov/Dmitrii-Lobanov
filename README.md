@@ -78,27 +78,9 @@ A modern frontend application inspired by AI-assisted development workflows.
 
 **Tech stack:** React, TypeScript, Next.js, Zustand, AI APIs
 
-> Add live demo link here
-> Add repository link here
+Live demo: [https://cursor-clone-delta.vercel.app/](https://cursor-clone-delta.vercel.app/)
 
----
-
-### Personal portfolio website
-
-A senior-level portfolio website designed to present frontend engineering experience, technical depth, and real-world impact.
-
-**Focus areas:**
-
-* Clean visual design
-* Performance-first implementation
-* Strong positioning for remote senior frontend roles
-* Case-study-style storytelling
-* Responsive UI
-
-**Tech stack:** Next.js, React, TypeScript, Tailwind CSS
-
-> Add live demo link here
-> Add repository link here
+Repository link: [https://github.com/Dmitrii-Lobanov/Cursor-clone](https://github.com/Dmitrii-Lobanov/Cursor-clone)
 
 ---
 
@@ -118,8 +100,7 @@ A technical case study based on optimizing a large React/Redux application from 
 
 **Result:** key user interactions became approximately **3x faster**.
 
-> Add article link here
-> Add related demo repository here, if available
+[Article](https://medium.com/@dmitriilobanov3/optimizing-a-large-react-redux-app-from-render-chaos-to-a-3x-faster-ui-9d6b2038eb05)
 
 ---
 
